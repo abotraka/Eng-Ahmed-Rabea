@@ -17,4 +17,4 @@ export default defineConfig({
       "@": resolve("./src"), // @/ = مجلد src
     },
   },
-});git init
+})
