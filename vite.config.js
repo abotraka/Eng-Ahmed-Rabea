@@ -7,7 +7,7 @@ const resolve = (p) => path.resolve(__dirname, p);
 export default defineConfig({
   plugins: [react()],
 
-  base: "/Eng-Ahmed-Rabea/", 
+  base: "/Eng-Ahmed-Rabea/",
 
   resolve: {
     alias: {
